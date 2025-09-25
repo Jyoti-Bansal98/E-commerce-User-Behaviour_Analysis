@@ -59,7 +59,7 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 ### 📊 Event Type Distribution
 - Shows majority of events are *views, followed by **purchases* and *cart additions*.
 <img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "500"/>
-
+ 
 ### 🏷 Top Categories by Repeat Customer Purchases
 - Electronics, smartphones, and some unknown categories dominate user interactions.
 <img src = "images/Top_10_Main_Categories_by_Repeat_Customer_Purchases.png" alt = "Top_Categories" width = "500"/>

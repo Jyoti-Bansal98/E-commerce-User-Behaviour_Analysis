@@ -57,23 +57,24 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 
 ## 🔹 Analysis & Key Visualizations
 ### 📊 Event Type Distribution
-- Shows majority of events are *views, followed by **purchases* and *cart additions*.
 <img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "500"/>
+- Shows majority of events are *views, followed by **purchases* and *cart additions*.
  
 ### 🏷 Top Categories by Repeat Customer Purchases
-- Electronics, smartphones, and some unknown categories dominate user interactions.
 <img src = "images/Top_10_Main_Categories_by_Repeat_Customer_Purchases.png" alt = "Top_Categories" width = "500"/>
+- Electronics, and some unknown categories dominate user interactions.
 
 ### 💵 Price Distribution
-- Most products fall in the *0–500* price range. Outliers extend up to *2200*.
 <img src = "images/Price_Distribution.png" alt = "price_Distribution" width = "500"/>
+- Most products fall in the *0–500* price range. Outliers extend up to *2200*.
 
 ### 🛒 Conversion Funnel
-- Highest conversion occurs at *cart → purchase* stage; major drop-offs occur at *view → cart* stage.
 <img src = "images/Conversion_Funnel.png" alt = "Conversion_Funnel" width = "500"/>
+- Highest conversion occurs at *cart → purchase* stage
 
 ### 📈 Drop-off Analysis by Funnel Stages
 <img src = "images/Drop_off_Analysis.png" alt = "Drop_Off_Analysis" width = "500"/>
+- Major drop-offs occur at *view → cart* stage.
 
 
 ## 📊 Explore More Visualizations

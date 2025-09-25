@@ -83,11 +83,20 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 ---
 
 ## 🔹 Business Recommendations
-- Optimize checkout and cart flow to reduce drop-offs.  
-- Target promotions and recommendations for high cart but low purchase categories.  
-- Focus marketing on high-revenue categories like electronics for bundle offers.  
-- Build loyalty programs for repeat customers to boost retention.  
-- Use insights from time-based analysis to schedule targeted campaigns during peak purchase hours.
+- Optimize Conversion Funnel:
+With a 95% drop-off between view and cart, the product detail page needs redesign (clear CTAs, better product descriptions, high quality images, reviews, and trust signals) and limited-time offers .
+- Focus on Electronics Category:
+Electronics, especially smartphones, generate the majority of revenue. Prioritize exclusive deals, bundling offers, and loyalty programs in this category specially for top-performing products.
+- Recover Abandoned Carts:
+High cart-to-purchase conversions are good, but further gains can come by targeting personalized reminders and limited-time offers for abandoned carts.
+- Leverage Pricing Insights:
+Most products sell in the ₹0-500 range, but premium products exist with low volume, optimize pricing strategies, highlight premium products selectively, and consider discounts to boost sales.
+- Leverage Peak Hours & Weekends:
+Since purchases spike between 4–8 hours and weekends show intense activity, schedule promotions, flash scales, and targated notifications during these windows to maximize engagement and conversions.
+- Engage Repeat Customers:
+A small set of repeat users drive disproportionately high purchases. Implement personalized discounts, VIP rewards, early access sales, and referral programs to retain and grow this segment.
+- Diversify Beyond Electronics:
+Since revenue is highly concentrated, introduce cross-selling strategies for low-performing categories like medicine, stationery, and kids to reduce dependency on electronics.
 
 ---
 

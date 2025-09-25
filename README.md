@@ -70,9 +70,12 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 
 ### 💵 Price Distribution
 - Most products fall in the *0–500* price range. Outliers extend up to *2200*.
+<img src = "images/Price_Distribution.png" alt = "price_Distribution" width = "500"/>
 
 ### 🛒 Conversion Funnel
 - Highest conversion occurs at *cart → purchase* stage; major drop-offs occur at *view → cart* stage.
+<img src = "images/Conversion_Funnel.png" alt = "Conversion_Funnel" width = "500"/>
+<img src = "images/Drop_off_Analysis.png" alt = "Drop_Off_Analysis" width = "500"/>
 
 ---
 

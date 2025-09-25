@@ -58,7 +58,7 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 ## 🔹 Analysis & Key Visualizations
 ### 📊 Event Type Distribution
 - Shows majority of events are *views, followed by **purchases* and *cart additions*.
-<img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "200"/>
+<img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "500"/>
 
 ### 🏷 Top Categories by Count
 - Electronics, smartphones, and some unknown categories dominate user interactions.

@@ -60,12 +60,13 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 - Shows majority of events are *views, followed by **purchases* and *cart additions*.
 <img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "500"/>
 
-### 🏷 Top Categories by Revenue
+### 🏷 Top Categories by Repeat Customer Purchases
 - Electronics, smartphones, and some unknown categories dominate user interactions.
-<img src = "images/Top_10_Categories_by_Revenue.png" alt = "Top_Categories" width = "500"/>
+<img src = "images/Top_10_Main_Categories_by_Repeat_Customer_Purchases.png" alt = "Top_Categories" width = "500"/>
 
 ### 📈 Top Brands
 - Samsung, Apple, and Xiaomi lead in user engagement.
+<img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "500"/>
 
 ### 💵 Price Distribution
 - Most products fall in the *0–500* price range. Outliers extend up to *2200*.

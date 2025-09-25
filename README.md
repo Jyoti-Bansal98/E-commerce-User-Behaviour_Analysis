@@ -1,9 +1,9 @@
 # E-Commerce User Journey & Funnel Analysis
 
 ## 🎯 Project Objective
-Why do thousands of users add products to their carts but never complete the purchase?
-At which stage of the customer journey—browsing, adding to cart, or checkout—are users lost the most? 
-Which product categories drive revenue and which face the highest drop-offs?
+- Why do thousands of users add products to their carts but never complete the purchase?
+- At which stage of the customer journey—browsing, adding to cart, or checkout—are users lost the most? 
+- Which product categories drive revenue and which face the highest drop-offs?
 
 In this project, I analyze an e-commerce dataset of 1 million events to map the user journey from product views to purchases using conversion funnels, drop-off analysis, and heatmaps. The goal is to uncover actionable insights that help businesses optimize product offerings, reduce cart abandonment, and improve overall user engagement.
 

@@ -58,10 +58,11 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 ## 🔹 Analysis & Key Visualizations
 ### 📊 Event Type Distribution
 - Shows majority of events are *views, followed by **purchases* and *cart additions*.
-<img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "600"/>
+<img src = "images/Distribution_of_Event_Types.png" alt = "Event_Type_Distribution" width = "500"/>
 
 ### 🏷 Top Categories by Count
 - Electronics, smartphones, and some unknown categories dominate user interactions.
+<img src = "images/Top_10_Product_Categories.png" alt = "Top_Categories" width = "500"/>
 
 ### 📈 Top Brands
 - Samsung, Apple, and Xiaomi lead in user engagement.

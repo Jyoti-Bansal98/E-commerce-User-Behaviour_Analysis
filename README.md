@@ -10,20 +10,11 @@ This project explores an e-commerce dataset to answer these questions by mapping
 ---
 
 ## 📂 Dataset Information
-- *Source:* Multi-category online store events (October–November 2019)  
+- *Source:* Kaggle/Public Dataset eCommerce behavior data from multi category store
+- *Dataset Link:* https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 - *Rows Used:* 10 lakh rows for analysis  
-- *Columns:*
-  - event_time – Timestamp of the event  
-  - event_type – Type of event (view, cart, purchase)  
-  - product_id – Unique product identifier  
-  - category_id – Category ID  
-  - category_code – Category hierarchy (main.sub.subsub)  
-  - brand – Product brand  
-  - price – Product price  
-  - user_id – Unique user identifier  
-  - user_session – Session identifier  
-
-> Each row represents an event linking a user to a product.
+- *Columns:* event_time – Timestamp of the event, event_type – Type of event (view, cart, purchase), product_id – Unique product identifier, category_id – Category ID, category_code – Category hierarchy (main.sub.subsub), brand – Product brand, price – Product price, user_id – Unique user identifier, user_session – Session identifier  
+- *Description:* This dataset contains behavior data for 2 months (from October 2019 to November 2019) from a large multi-category online store. Each row in the file represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.
 
 ---
 

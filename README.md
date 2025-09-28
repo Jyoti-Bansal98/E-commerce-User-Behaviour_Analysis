@@ -65,7 +65,7 @@ Through conversion funnels, time-based trends, and category-level insights, it u
 - Electronics, and some unknown categories dominate user interactions.
 <img src = "images/Top_10_Main_Categories_by_Repeat_Customer_Purchases.png" alt = "Top_Categories" width = "500"/>
 
-  
+   
 ### 💵 Price Distribution
 - Most products fall in the *0–500* price range. Outliers extend up to *2200*.
 <img src = "images/Price_Distribution.png" alt = "price_Distribution" width = "500"/>
